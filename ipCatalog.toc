@@ -1,0 +1,99 @@
+\contentsline {section}{\numberline {1}Signal Paths}{4}% 
+\contentsline {subsection}{\numberline {1.1}Input Signal Path}{4}% 
+\contentsline {subsection}{\numberline {1.2}Output Signal Path}{4}% 
+\contentsline {section}{\numberline {2}power\textunderscore meter}{5}% 
+\contentsline {subsection}{\numberline {2.1}Diagram}{5}% 
+\contentsline {subsection}{\numberline {2.2}Parameters}{5}% 
+\contentsline {subsection}{\numberline {2.3}Pin Description:}{5}% 
+\contentsline {subsection}{\numberline {2.4}AXI Register Mapping}{6}% 
+\contentsline {subsection}{\numberline {2.5}AXI Register Description}{6}% 
+\contentsline {subsection}{\numberline {2.6}Usage}{7}% 
+\contentsline {section}{\numberline {3}IDELAYBUFDS}{7}% 
+\contentsline {subsection}{\numberline {3.1}Diagram}{7}% 
+\contentsline {subsection}{\numberline {3.2}Parameters}{7}% 
+\contentsline {subsection}{\numberline {3.3}Pin Description}{8}% 
+\contentsline {subsection}{\numberline {3.4}Usage}{8}% 
+\contentsline {section}{\numberline {4}custom\textunderscore IBUFDS}{9}% 
+\contentsline {subsection}{\numberline {4.1}Diagram}{9}% 
+\contentsline {subsection}{\numberline {4.2}Parameters}{9}% 
+\contentsline {subsection}{\numberline {4.3}Pin Description}{10}% 
+\contentsline {subsection}{\numberline {4.4}Usage}{10}% 
+\contentsline {section}{\numberline {5}delay\textunderscore FIFO}{10}% 
+\contentsline {subsection}{\numberline {5.1}Diagrams}{11}% 
+\contentsline {subsection}{\numberline {5.2}Parameters}{11}% 
+\contentsline {subsection}{\numberline {5.3}Pin Description}{13}% 
+\contentsline {subsection}{\numberline {5.4}AXI Register Mapping}{15}% 
+\contentsline {subsection}{\numberline {5.5}AXI Register Description}{15}% 
+\contentsline {subsection}{\numberline {5.6}Usage}{17}% 
+\contentsline {section}{\numberline {6}adc\textunderscore IF\textunderscore core}{18}% 
+\contentsline {subsection}{\numberline {6.1}Contained IP}{19}% 
+\contentsline {subsection}{\numberline {6.2}Diagrams}{20}% 
+\contentsline {subsection}{\numberline {6.3}Parameters}{20}% 
+\contentsline {subsubsection}{\numberline {6.3.1}Internal IP Default Parameters}{21}% 
+\contentsline {subsection}{\numberline {6.4}Pin Description}{21}% 
+\contentsline {subsection}{\numberline {6.5}AXI Interface Mapping}{23}% 
+\contentsline {subsubsection}{\numberline {6.5.1}AXI-Stream Interface}{23}% 
+\contentsline {subsubsection}{\numberline {6.5.2}AXI-Lite Address Mapping}{24}% 
+\contentsline {subsection}{\numberline {6.6}Usage}{24}% 
+\contentsline {section}{\numberline {7}AXI\textunderscore ADC\textunderscore ctrl}{24}% 
+\contentsline {subsection}{\numberline {7.1}Diagram}{25}% 
+\contentsline {subsection}{\numberline {7.2}Parameters}{25}% 
+\contentsline {subsection}{\numberline {7.3}Pin Description}{25}% 
+\contentsline {subsection}{\numberline {7.4}AXI Register Mapping}{26}% 
+\contentsline {subsection}{\numberline {7.5}AXI Register Description}{26}% 
+\contentsline {subsection}{\numberline {7.6}Usage}{26}% 
+\contentsline {section}{\numberline {8}AXI\textunderscore DAC\textunderscore CTRL}{27}% 
+\contentsline {subsection}{\numberline {8.1}Diagram}{27}% 
+\contentsline {subsection}{\numberline {8.2}Parameters}{27}% 
+\contentsline {subsection}{\numberline {8.3}Pin Description}{28}% 
+\contentsline {subsection}{\numberline {8.4}AXI Register Mapping}{29}% 
+\contentsline {subsection}{\numberline {8.5}AXI Register Description}{29}% 
+\contentsline {subsection}{\numberline {8.6}Usage}{29}% 
+\contentsline {subsubsection}{\numberline {8.6.1}General}{29}% 
+\contentsline {subsubsection}{\numberline {8.6.2}Clocking}{30}% 
+\contentsline {section}{\numberline {9}shift\textunderscore register}{30}% 
+\contentsline {subsection}{\numberline {9.1}Diagram}{30}% 
+\contentsline {subsection}{\numberline {9.2}Parameters}{31}% 
+\contentsline {subsection}{\numberline {9.3}Pin Description}{31}% 
+\contentsline {subsection}{\numberline {9.4}Operation}{32}% 
+\contentsline {section}{\numberline {10}PRBS\textunderscore gen}{33}% 
+\contentsline {subsection}{\numberline {10.1}Diagram}{33}% 
+\contentsline {subsection}{\numberline {10.2}Parameters}{33}% 
+\contentsline {subsection}{\numberline {10.3}Pin Description}{34}% 
+\contentsline {subsection}{\numberline {10.4}Usage}{34}% 
+\contentsline {section}{\numberline {11}channel\textunderscore delay}{34}% 
+\contentsline {subsection}{\numberline {11.1}Diagram}{35}% 
+\contentsline {subsection}{\numberline {11.2}Parameters}{35}% 
+\contentsline {subsection}{\numberline {11.3}Pin Description}{35}% 
+\contentsline {subsection}{\numberline {11.4}Usage}{36}% 
+\contentsline {section}{\numberline {12}dac\textunderscore IF\textunderscore core}{36}% 
+\contentsline {subsection}{\numberline {12.1}Contained IP}{37}% 
+\contentsline {subsection}{\numberline {12.2}Diagrams}{38}% 
+\contentsline {subsection}{\numberline {12.3}Parameters}{38}% 
+\contentsline {subsubsection}{\numberline {12.3.1}Internal IP Default Parameters}{39}% 
+\contentsline {subsection}{\numberline {12.4}Pin Description}{39}% 
+\contentsline {subsection}{\numberline {12.5}AXI Interface Mapping}{41}% 
+\contentsline {subsubsection}{\numberline {12.5.1}AXI-Stream Interface}{41}% 
+\contentsline {subsubsection}{\numberline {12.5.2}AXI-Lite Address Mapping}{41}% 
+\contentsline {subsection}{\numberline {12.6}Usage}{42}% 
+\contentsline {subsubsection}{\numberline {12.6.1}General}{42}% 
+\contentsline {subsubsection}{\numberline {12.6.2}XOR Data Inversion}{42}% 
+\contentsline {section}{\numberline {13}VGA\_SW\_IF}{42}% 
+\contentsline {subsection}{\numberline {13.1}LMH6517 Block Diagram}{43}% 
+\contentsline {subsection}{\numberline {13.2}Diagram}{43}% 
+\contentsline {subsection}{\numberline {13.3}Parameters}{43}% 
+\contentsline {subsection}{\numberline {13.4}Pin Description}{44}% 
+\contentsline {subsection}{\numberline {13.5}AXI Register Mapping}{45}% 
+\contentsline {subsection}{\numberline {13.6}AXI Register Description}{45}% 
+\contentsline {subsection}{\numberline {13.7}Usage and Operation}{46}% 
+\contentsline {subsubsection}{\numberline {13.7.1}General}{46}% 
+\contentsline {subsubsection}{\numberline {13.7.2}Reset Sequence}{46}% 
+\contentsline {subsection}{\numberline {13.8}Pulsed Interface}{47}% 
+\contentsline {subsubsection}{\numberline {13.8.1}Overflow and Underflow Detection}{47}% 
+\contentsline {section}{\numberline {14}References and Links}{48}% 
+\contentsline {paragraph}{LT0108}{48}% 
+\contentsline {paragraph}{DAC}{48}% 
+\contentsline {paragraph}{PRBS}{48}% 
+\contentsline {paragraph}{SNOSB19}{48}% 
+\contentsline {paragraph}{UG953}{48}% 
+\contentsline {paragraph}{DS182}{48}% 

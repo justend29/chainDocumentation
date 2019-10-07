@@ -1,0 +1,10 @@
+\contentsline {table}{\numberline {1}{\ignorespaces power\textunderscore meter AXI-Lite Register Map\relax }}{6}% 
+\contentsline {table}{\numberline {2}{\ignorespaces delay\textunderscore FIFO AXI Register Map\relax }}{15}% 
+\contentsline {table}{\numberline {4}{\ignorespaces Data Channel Mapping - axis\textunderscore tdata\relax }}{23}% 
+\contentsline {table}{\numberline {5}{\ignorespaces adc\textunderscore IF\textunderscore core AXI-Lite Address Mapping\relax }}{24}% 
+\contentsline {table}{\numberline {6}{\ignorespaces AXI\textunderscore ADC\textunderscore ctrl Register Map\relax }}{26}% 
+\contentsline {table}{\numberline {7}{\ignorespaces Control Line Mapping for Each ADC\relax }}{26}% 
+\contentsline {table}{\numberline {8}{\ignorespaces AXI-Lite Register Mapping for AXI\textunderscore DAC\textunderscore CTRL\relax }}{29}% 
+\contentsline {table}{\numberline {10}{\ignorespaces Data Channel Mapping - axis\textunderscore tdata\relax }}{41}% 
+\contentsline {table}{\numberline {11}{\ignorespaces dac\textunderscore IF\textunderscore core AXI-Lite Address Mapping\relax }}{41}% 
+\contentsline {table}{\numberline {12}{\ignorespaces VGA\_SW\_IF Register Map\relax }}{45}% 
